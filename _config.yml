@@ -1,18 +1,15 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
+# title: A blog about lorem ipsum dolor sit amet
+# description: A blog about lorem ipsum dolor sit amet
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hussienabdelaal.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Lorem Ipsum
-user_description: Anon Developer at Lorem Ipsum Dolor
-user_title: Anon Developer
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
-disqus_username: lorem_ipsum
+username: Hussien Abdelaal
+user_description: Blockchain Developer at Valoro
+user_title: Blockchain and Back-end Developer
+email: hussienabdelaal105@gmail.com
+github_username:  HussienAbdelaal
 
 # Build settings
 markdown: kramdown
