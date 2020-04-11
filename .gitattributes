@@ -1,0 +1,2 @@
+# applying clean and smudge filter on _config.yml
+_config.yml     filter=updateUrl
